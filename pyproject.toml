@@ -10,8 +10,8 @@ dependencies = [
   "django-debug-toolbar==6.3.0",
   "gunicorn==26.0.0",
   "psycopg==3.3.4",
-  "redis==7.4.0",
-  "ruff==0.15.13",
+  "redis==8.0.0",
+  "ruff==0.15.15",
   "setuptools==82.0.1",
   "whitenoise==6.12.0",
 ]
